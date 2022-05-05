@@ -1,0 +1,10 @@
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+	background-position: center;
+}
+#myCanvas{
+	border-width: 20px;
+	border-style: solid;
+
+}
